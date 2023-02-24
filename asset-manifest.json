@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/qdr-dashboard/static/css/main.07a6e487.css",
-    "main.js": "/qdr-dashboard/static/js/main.59393cd4.js",
+    "main.js": "/qdr-dashboard/static/js/main.b6109597.js",
     "index.html": "/qdr-dashboard/index.html",
     "main.07a6e487.css.map": "/qdr-dashboard/static/css/main.07a6e487.css.map",
-    "main.59393cd4.js.map": "/qdr-dashboard/static/js/main.59393cd4.js.map"
+    "main.b6109597.js.map": "/qdr-dashboard/static/js/main.b6109597.js.map"
   },
   "entrypoints": [
     "static/css/main.07a6e487.css",
-    "static/js/main.59393cd4.js"
+    "static/js/main.b6109597.js"
   ]
 }
