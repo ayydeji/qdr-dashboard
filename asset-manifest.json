@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/qdr-dashboard/static/css/main.07a6e487.css",
+    "main.js": "/qdr-dashboard/static/js/main.2479cfbf.js",
+    "index.html": "/qdr-dashboard/index.html",
+    "main.07a6e487.css.map": "/qdr-dashboard/static/css/main.07a6e487.css.map",
+    "main.2479cfbf.js.map": "/qdr-dashboard/static/js/main.2479cfbf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.07a6e487.css",
+    "static/js/main.2479cfbf.js"
+  ]
+}
