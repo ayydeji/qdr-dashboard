@@ -30,7 +30,7 @@ function App() {
         </div>
       </ThemeProvider>
     </ColorModeContext.Provider>
-  );
+  );  
 }
 
 export default App;
